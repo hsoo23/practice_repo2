@@ -4,6 +4,6 @@ int main()
 {
   printf("hello world!!!!");
   printf("open source");
-  printf("Hello");
+  printf("Bye");
   return 0; 
 }
